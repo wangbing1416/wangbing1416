@@ -16,7 +16,7 @@
 
 ###
 
-- 😄 Im Bing Wang, a phD in Jilin University.
+- 😄 Im Bing Wang, a master of Jilin University.
 - 🔭 My research interests include transfer learning, natural language understanding, etc.
 - ⚡ You can find me on my [homepage](https://wangbing1416.github.io)!
 
