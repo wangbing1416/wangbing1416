@@ -17,6 +17,6 @@
 ###
 
 - 😄 Im Bing Wang, a phD candidate of Jilin University.
-- 🔭 My research interests include transfer learning, natural language understanding, etc.
+- 🔭 My research interests include graph machine learning, natural language understanding, social computing, etc.
 - ⚡ You can find me on my [homepage](https://wangbing1416.github.io)!
 
