@@ -5,18 +5,6 @@
 </p>
 
 
-<a href="https://github.com/wangbing1416">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=wangbing1416&show_icons=truet&include_all_commits=True&hide=contribs" alt="Bing Wang's github stats" />
-</a>
-
-
-<a href="https://github.com/wangbing1416">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=wangbing1416&layout=compact" />
-</a>
-
-###
-
 - 😄 Im Bing Wang, a phD candidate of Jilin University.
 - 🔭 My research interests include graph machine learning, natural language understanding, social computing, etc.
 - ⚡ You can find me on my [homepage](https://wangbing1416.github.io)!
